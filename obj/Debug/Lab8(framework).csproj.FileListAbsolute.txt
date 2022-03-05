@@ -1,0 +1,24 @@
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\bin\Debug\Lab8(framework).exe.config
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\bin\Debug\Lab8(framework).exe
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\bin\Debug\Lab8(framework).pdb
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\obj\Debug\Lab8_framework_.Form1.resources
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\obj\Debug\Lab8_framework_.Properties.Resources.resources
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).csproj.GenerateResource.cache
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).csproj.CoreCompileInputs.cache
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).exe
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).pdb
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\obj\Debug\Lab8_framework_.Main.resources
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).csprojAssemblyReference.cache
+D:\БНТУ курс 2\РПВС\labs\lab8\Lab8(framework)\obj\Debug\Lab8_framework_.Form2.resources
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\bin\Debug\Lab8(framework).exe.config
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\bin\Debug\Lab8(framework).exe
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\bin\Debug\Lab8(framework).pdb
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).csprojAssemblyReference.cache
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\obj\Debug\Lab8_framework_.Form1.resources
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\obj\Debug\Lab8_framework_.Form2.resources
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\obj\Debug\Lab8_framework_.Main.resources
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\obj\Debug\Lab8_framework_.Properties.Resources.resources
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).csproj.GenerateResource.cache
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).csproj.CoreCompileInputs.cache
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).exe
+D:\БНТУ курс 2\РПВС\1 семестр\labs\lab8\Lab8(framework)\obj\Debug\Lab8(framework).pdb
